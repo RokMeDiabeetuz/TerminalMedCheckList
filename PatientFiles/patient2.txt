@@ -1,0 +1,16 @@
+102, Jora Mormont, 100002, 60, male
+lab, Complete Blood Count, Dr. Aemon, 6, 30, blood, vein
+lab, Basic Metabolic Panel, Dr. Aemon, 6, 30, blood, vein
+med, Levothyroxine, Dr. Aemon, 6, 30, mcg, 75.0, tablet
+med, Metoprolol Tartrate, Dr. Stark, 9, 0, mg, 20.0, tablet
+med, Aspirin, Dr. Stark, 9, 0, mg, 81.0, tablet
+med, Lovenox Sodium, Dr. Aemon, 9, 0, mg, 100.0, subcutaneous
+task, Apply Thera-honey to left upper extremity, Dr. Aemon, 10, 0
+med, Colcichine, Dr. Aemon, 10, 30, mg, 100.0, tablet
+med, Potassium Chloride, Dr. Stark, 12, 0, meq, 20.0, tablet
+lab, Potassium Blood Level, Dr. Stark, 14, 0, blood, vein
+med, Potassium Chloride, Dr. Stark, 18, 0, meq, 20.0, tablet
+lab, Potassium Blood Level, Dr. Stark, 20, 0, blood, vein
+task, Apply Thera-honey to left upper extremity, Dr. Aemon, 20, 0
+med, Melatonin, Dr. Stark, 21, 0, mg, 3.0, tablet
+med, Valerian Root, Dr. Stark, 21, 0, mg, 500.0, capsule

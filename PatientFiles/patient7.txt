@@ -1,0 +1,10 @@
+107, Dickon Tarly, 10101, 20, male
+med, Synthroid, Dr. Aemon, 6, 0, mcg, 125.0, tablet
+lab, basic metabolic panel, Dr Bronn, 6, 30, blood, vein
+lab, complete blood count, Dr Bronn, 6, 30, blood, vein
+task, remove foley catheter, Dr Bronn, 8, 0
+med, vitamin c, Dr. Aemon, 8, 30, mg, 300.0, tablet
+med, levaquin, Dr. Aemon, 8, 30, mg, 500.0, IV
+med, metoprolol, Dr. Tarly, 10, 30, mg, 10.0, tablet
+task, bladder scan for retention, Dr Bronn, 14, 30
+med, levaquin, Dr. Aemon, 20, 30, mg, 500.0, IV

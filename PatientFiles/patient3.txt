@@ -1,0 +1,18 @@
+103, Stannis Baratheon, 100003, 48, male
+lab, Complete Blood Count, Dr. Pitt, 6, 30, blood, vein
+lab, Complete Metabolic Panel, Dr. Pitt, 6, 30, blood, vein
+lab, Urine Analysis, Dr. Pitt, 7, 0, urine, clean catch
+lab, Stool for CDiff, Dr. Qyburn, 8, 0, stool, sample
+med, Carvedilol, Dr. Wilbur, 8, 0, mg, 3.25, tablet
+med, Amiodarone, Dr. Pitt, 8, 0, mg, 100.0, tablet
+med, Lisinopril HCL, Dr. Qyburn, 9, 0, mg, 10.0, tablet
+med, Vancomycin HCL, Dr. Qyburn, 9, 0, mg, 500.0, IV
+med, Ascorbic Acid, Dr. Wilbur, 9, 0, mg, 500.0, tablet
+med, Lactobacillus, Dr. Wilbur, 9, 0, mg, 100.0, capsule
+task, Wound care for facial abrasion, Dr. Jones, 12, 0
+lab, Urine Culture, Dr. Pitt, 15, 0, urine, clean catch
+med, Ceftriaxone, Dr. Qyburn, 16, 0, g, 1.0, IV
+task, Re-dress Central Line PICC, Dr. Jones, 18, 0
+med, Amiodarone, Dr. Pitt, 20, 0, mg, 100.0, tablet
+med, Carvedilol, Dr. Wilbur, 21, 0, mg, 3.25, tablet
+med, Vancomycin HCL, Dr. Qyburn, 21, 0, mg, 500.0, IV

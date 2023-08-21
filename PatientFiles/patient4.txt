@@ -1,0 +1,14 @@
+104, Daenarys Targeryan, 100004, 23, female
+lab, Complete Blood Count, Dr. Tarly, 6, 30, blood, vein
+lab, Complete Metabolic Panel, Dr. Tarly, 6, 30, blood, vein
+lab, Flu A/B PCR, Dr. Tarly, 8, 0, secretion, nasal
+med, Ascorbic Acid, Dr. Melisandre, 9, 0, mg, 100.0, tablet
+med, Cholecolciferol, Dr. Melisandre, 9, 0, units, 400.0, tablet
+med, Normal Saline with KCL, Dr. Melisandre, 9, 0, ml/hr, 75.0, IV
+med, Duoneb, Dr. Melisandre, 9, 0, mg, 2.5, Inhalation
+med, Duoneb, Dr. Melisandre, 13, 0, mg, 2.5, Inhalation
+task, Change IV site, Dr. Melisandre, 15, 0
+task, Flush IV Line, Dr. Melisandre, 15, 15
+med, Duoneb, Dr. Melisandre, 17, 0, mg, 2.5, Inhalation
+med, Duoneb, Dr. Melisandre, 21, 0, mg, 2.5, Inhalation
+med, Ambien, Dr. Melisandre, 21, 0, mg, 6.25, tablet

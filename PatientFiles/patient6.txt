@@ -1,0 +1,24 @@
+106, Tyrion Lannister, 100006, 42, male
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 2, 0
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 5, 0
+lab, Complete Blood Count, Dr. Bronn, 6, 30, blood, vein
+lab, Complete Metabolic Panel, Dr. Bronn, 6, 30, blood, vein
+lab, Magnesium Level, Dr. Bronn, 6, 30, blood, vein
+lab, Liver Panel, Dr. Bronn, 6, 30, blood, vein
+med, Librium, Dr. Aemon, 8, 0, mg, 10.0, capsule
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 8, 0
+med, Potassium Chloride, Dr. Aemon, 9, 0, meq, 20.0, tablet
+med, Vitamin B12, Dr. Tarly, 9, 0, units, 400.0, tablet
+med, Ativan, Dr. Tarly, 10, 0, mg, 2.0, IV
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 11, 0
+med, Librium, Dr. Aemon, 14, 0, mg, 10.0, capsule
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 14, 0
+med, Magnesium Sulfate, Dr. Bronn, 15, 0, g, 2.0, IV
+med, Ativan, Dr. Tarly, 16, 0, mg, 2.0, IV
+med, Ativan, Dr. Tarly, 16, 0, mg, 2.0, IV
+med, Potassium Chloride, Dr. Aemon, 17, 0, meq, 20.0, tablet
+med, Vitamin B12, Dr. Tarly, 17, 0, units, 400.0, tablet
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 17, 0
+med, Librium, Dr. Aemon, 20, 0, mg, 10.0, capsule
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 20, 0
+task, Check and Record CIWA Score every 3 hours, Dr. Bronn, 23, 0

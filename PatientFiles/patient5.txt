@@ -1,0 +1,10 @@
+105, Sansa Stark, 100005, 19, female
+lab, Complete Blood Count, Dr. Aemon, 6, 30, blood, vein
+lab, Complete Metabolic Panel, Dr. Aemon, 6, 30, blood, vein
+med, Docusate, Dr. Aemon, 8, 0, mg, 100.0, capsule
+med, Potassium Chloride, Dr. Aemon, 9, 0, meq, 20.0, tablet
+med, Doxycycline, Dr. Tarly, 9, 0, mg, 200.0, tablet
+med, Doxycycline, Dr. Tarly, 9, 0, mg, 200.0, tablet
+task, Wound care for facial abrasion, Dr. Jones, 12, 0
+med, Potassium Chloride, Dr. Aemon, 17, 0, meq, 20.0, tablet
+med, Vancomycin HCL, Dr. Tarly, 21, 0, mg, 500.0, IV
